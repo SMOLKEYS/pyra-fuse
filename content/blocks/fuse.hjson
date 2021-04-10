@@ -1,0 +1,26 @@
+ammoTypes: {
+  titanium: {
+    type: ShrapnelBulletType
+    length: 90
+    width: 17
+    damage: 66
+    ammoMultiplier: 4
+    reloadMultiplier: 1.3
+    }
+  thorium: {
+    type: ShrapnelBulletType
+    length: 90
+    width: 17
+    damage: 105
+    ammoMultiplier: 5
+    }
+  pyratite: {
+  type: ShrapnelBulletType
+    length: 90
+    width: 17
+    damage: 90
+    ammoMultiplier: 3
+    reloadMultiplier: 0.7
+    status: burning
+  }
+}
