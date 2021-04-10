@@ -1,6 +1,6 @@
-name: ""
-displayName: ""
-author: ""
-description: ""
-version: 0.0
-minGameVersion: 104
+name: "pyra-fuse"
+displayName: "Pyratite Fuse"
+author: "SMOLKEYS"
+description: "Allows fuse to support pyratite as ammo."
+version: 1
+minGameVersion: 121
