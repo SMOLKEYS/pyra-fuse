@@ -6,7 +6,7 @@ ammoTypes: {
     damage: 66
     ammoMultiplier: 4
     reloadMultiplier: 1.3
-    frontColor: ffc0cb
+    color: [ffc0cb]
     }
   thorium: {
     type: ShrapnelBulletType
@@ -14,7 +14,7 @@ ammoTypes: {
     width: 17
     damage: 105
     ammoMultiplier: 5
-    frontColor: 00ffff
+    color: [00ffff]
     }
   pyratite: {
   type: ShrapnelBulletType
@@ -23,7 +23,7 @@ ammoTypes: {
     damage: 90
     ammoMultiplier: 3
     reloadMultiplier: 0.7
-    frontColor: ffa500
+    color: [ffa500]
     status: burning
   }
 }
